@@ -1,6 +1,6 @@
 # Pick a term topic
 
-This assignment's purpose is to decide on a term topic and describe briefly why you are interested in this topic. You can choose one of the following suggestions or a suitable topic of your own choosing related to the broader field of geomicrobiology. By *suitable* I mean that a topic choice on *what the great rubber ducky incident of 1992 taught us about ocean circulation* may be very interesting (definitely is) but is not a suitable topic for this class.
+This assignment's purpose is to decide on a term topic and describe briefly why you are interested in this topic. You can choose one of the following suggestions or a suitable topic of your own choosing related to the broader field of geomicrobiology (by *suitable* I mean that a topic choice on *what the great rubber ducky incident of 1992 taught us about ocean circulation* may be a very interesting topic but not a suitable one for this class). When I doubt, come talk to me after class or send me an email.
 
  - The role of microbes in acid mine drainage
  - Microbial mineral processing
